@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Geo-Hash
-version:             0.01
+version:             0.02
 abstract:            Encode / decode geohash.org locations.
 license:             perl
 author:              
